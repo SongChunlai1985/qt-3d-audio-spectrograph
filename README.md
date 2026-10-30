@@ -1,9 +1,5 @@
 # OpGl‑Audio‑3D‑Visualizer
 > Qt + OpenGL3.3 CoreProfile + OpenCV + Dlib 实现的**音频3D可视化 + 人脸识别存储**桌面程序。
-[![Qt](https://img.shields.io/badge/Qt‑5.15‑41CD52.svg)](https://www.qt.io)
-[![OpenGL](https://img.shields.io/badge/OpenGL‑3.3‑blue.svg)](https://www.opengl.org)
-[![OpenCV](https://img.shields.io/badge/OpenCV‑4.x‑red.svg)](https://opencv.org)
-[![Dlib](https://img.shields.io/badge/Dlib‑FaceRecognition‑orange.svg)](http://dlib.net)
 
 ## 📖 项目简介
 本项目是一个基于Qt OpenGL Widget的桌面演示程序，两大核心能力：
